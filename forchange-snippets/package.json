@@ -2,7 +2,7 @@
     "name": "forchange-snippets",
     "displayName": "forchange-snippets",
     "description": "Code snippets for internal forchange company",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "icon":"icon/icon.jpg",
     "publisher": "IrvingYang",
     "engines": {
