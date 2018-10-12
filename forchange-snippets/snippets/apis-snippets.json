@@ -3,9 +3,9 @@
 		"prefix":["forapis","FORAPIS"],
 		"body": [
 		"/*",
-		" apiName:接口名",
-		" restful:默认为false当接口路径需要传变量时为请设置为true",
-		" api-enrollment:接口前缀使用时请与后端定好",
+		"  apiName:接口名",
+		"  restful:默认为false当接口路径需要传变量时为请设置为true",
+		"  api-enrollment:接口前缀使用时请与后端定好",
 		"*/",
 		"export default {",
 		"  ${1:apiName}:{",

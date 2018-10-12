@@ -3,9 +3,9 @@
 		"prefix": ["forvue", "FORVUE"],
 		"body": [
 			"<template>",
-			" <div>",
+			"  <div>",
 			"",
-			" </div>",
+			"  </div>",
 			"</template>",
 			"",
 			"<script>",
