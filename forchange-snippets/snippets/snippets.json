@@ -1,6 +1,6 @@
 {
 	"vue template":{
-		"prefix":"vue",
+		"prefix":"forvue",
 		"body": [
 			"<template>",
 			"   <div>",
