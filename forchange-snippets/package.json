@@ -2,7 +2,7 @@
     "name": "forchange-snippets",
     "displayName": "forchange-snippets",
     "description": "Code snippets for internal forchange company",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "icon":"icon/icon.jpg",
     "publisher": "IrvingYang",
     "engines": {
@@ -26,6 +26,11 @@
                 "language": "javascript",
                 "aliases":["forapis","FORAPIS"],
                 "path": "./snippets/apis-snippets.json"
+            },
+            {
+                "language": "javascript",
+                "aliases":["forroute","FORROUTE"],
+                "path": "./snippets/routes-snippets.json"
             }
         ]
     },

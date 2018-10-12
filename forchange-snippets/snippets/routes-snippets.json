@@ -1,0 +1,17 @@
+{
+    "apis.js template":{
+        "prefix":["forroute","FORROUTE"],
+        "body": [
+            "const Index = () => import('./pages/index.vue')",
+            "",
+            "export default [",
+            "    {",
+            "        name: '${1:routename}',",
+            "        path: '${2:url}',",
+            "        component: Index",
+            "    },",
+            "]"
+        ],
+        "description": "create a routes.js frame(forchange)"
+    }	
+}
