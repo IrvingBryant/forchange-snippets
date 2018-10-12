@@ -1,22 +1,22 @@
 {
-	"vue template":{
-		"prefix":["forvue","FORVUE"],
+	"vue template": {
+		"prefix": ["forvue", "FORVUE"],
 		"body": [
 			"<template>",
-			"   <div>",
-					"",
-			"   </div>",
+			" <div>",
+			"",
+			" </div>",
 			"</template>",
 			"",
 			"<script>",
-			"    export default {",
-			"        name: '${3}'",
-					
-			"    }",
+			"  export default {",
+			"    name: '${3}'",
+
+			"  }",
 			"</script>",
 			"",
 			"<style lang=\"scss\" scoped>",
-				"",	
+			"",
 			"</style>"
 		],
 		"description": "create a vue frame(forchange)"
