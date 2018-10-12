@@ -1,6 +1,6 @@
 {
 	"apis.js template":{
-		"prefix":"forapis",
+		"prefix":["forapis","FORAPIS"],
 		"body": [
 		"/*",
 		"   apiName:接口名",
