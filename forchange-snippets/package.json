@@ -2,7 +2,7 @@
     "name": "forchange-snippets",
     "displayName": "forchange-snippets",
     "description": "Code snippets for internal forchange company",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "icon":"icon/icon.jpg",
     "publisher": "IrvingYang",
     "engines": {
@@ -20,6 +20,10 @@
             {
                 "language": "vue",
                 "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "js",
+                "path": "./snippets/apis-snippets.json"
             }
         ]
     },
