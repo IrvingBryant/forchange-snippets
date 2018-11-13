@@ -1,0 +1,27 @@
+{
+	"vue ts template": {
+		"prefix": ["forvuets", "FORVUETS"],
+		"body": [
+			"<template>",
+			"  <div class=\"$1\">",
+			"",
+			"  </div>",
+			"</template>",
+			"",
+			"<script lang=\"ts\">",
+			"import { Vue, Component } from \"vue-property-decorator\"",
+			"",
+			"@componet({",
+			"  name: \"$2\"",
+			"})",
+			"export default class $3 extends Vue {",
+			"}",
+			"</script>",
+			"",
+			"<style lang=\"scss\" scoped>",
+			"",
+			"</style>"
+		],
+		"description": "create a vue-typescript frame(forchange)"
+	}
+}
