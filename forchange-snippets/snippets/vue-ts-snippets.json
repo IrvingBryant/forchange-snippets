@@ -1,6 +1,6 @@
 {
 	"vue ts template": {
-		"prefix": ["forvuets", "FORVUETS"],
+		"prefix": ["forts", "FORTS"],
 		"body": [
 			"<template>",
 			"  <div class=\"$1\">",
