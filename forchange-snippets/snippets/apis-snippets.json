@@ -10,7 +10,7 @@
 		"export default {",
 		"  ${1:apiName}:{",
 		"    path:'${2:url}',",
-		"    methods:'get',",
+		"    method:'get',",
 		"    restful:false,", 
 		"  },",
 		"}",
