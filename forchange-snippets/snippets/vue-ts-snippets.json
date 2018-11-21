@@ -11,7 +11,7 @@
 			"<script lang=\"ts\">",
 			"import { Vue, Component } from \"vue-property-decorator\"",
 			"",
-			"@Componet({",
+			"@Component({",
 			"  name: \"$2\"",
 			"})",
 			"export default class $3 extends Vue {",
