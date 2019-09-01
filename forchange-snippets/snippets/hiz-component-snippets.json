@@ -1,0 +1,32 @@
+{
+	"service.js template":{
+		"prefix":["hizc","HIZC"],
+		"body": [
+    "import React, { Component } from 'react';",
+    "import { connect } from 'dva';",
+    "import {$3} from 'antd';",
+    "import './style.less';",
+    "",
+    "class $TM_FILENAME_BASE extends Component {",
+    "  constructor(props) {",
+    "    super(props)",
+    "  }", 
+    "  render() {",
+    "    return (",
+    "      <div>",
+    "",
+    "      </div>",
+    "    )",
+    "  }",
+    "}",
+    "function mapState(state) {",
+    "  const {${1:namespace}} = state;",
+    "  return {",
+    "    ...${2:namespace}",
+    "  };",
+    "}",
+    "export default connect(mapState)($TM_FILENAME_BASE);"
+		],
+		"description": "create a dva component frame(hizpay)"
+	}
+}

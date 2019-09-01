@@ -1,0 +1,23 @@
+{
+	"model.js template":{
+		"prefix":["hizm","HIZM"],
+		"body": [
+      "import { message } from 'antd';",
+      "import * as service from './service';",
+      "",
+      "export default {",
+      "  namespace: \"$0\",",
+      "  state: {",
+      "",
+      "  },",
+      "  reducers: {",
+      "",
+      "  },",
+      "  effects: {",
+      "",
+      "  },",
+      "};"
+		],
+		"description": "create a dva model.js frame(hizpay)"
+	}
+}

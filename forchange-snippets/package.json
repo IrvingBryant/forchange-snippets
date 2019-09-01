@@ -6,7 +6,7 @@
     "icon":"icon/icon.jpg",
     "publisher": "IrvingYang",
     "engines": {
-        "vscode": "^1.28.0"
+        "vscode": "^1.29.0"
     },
     "categories": [
         "Snippets"
@@ -33,6 +33,20 @@
                 "path": "./snippets/routes-snippets.json"
             },
             {
+              "language": "javascript",
+              "aliases":["hizm","HIZM"],
+              "path": "./snippets/hiz-model-snippets.json"
+            },
+            {
+              "language": "javascript",
+              "aliases":["hizs","HIZS"],
+              "path": "./snippets/hiz-service-snippets.json"
+            },
+            {
+              "language": "jsx",
+              "aliases":["hizc","HIZC"],
+              "path": "./snippets/hiz-component-snippets.json"
+            },{
               "language": "vue",
               "aliases":["forts","FORTS"],
               "path": "./snippets/vue-ts-snippets.json"

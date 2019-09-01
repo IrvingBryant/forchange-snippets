@@ -1,0 +1,17 @@
+{
+	"service.js template":{
+		"prefix":["hizs","HIZS"],
+		"body": [
+    "import * as request from '@/utils/request';",
+    "import * as utils from '@/utils/utils';",
+    "",
+    "export function ${1:serviceName}(param) {",
+    "  return request.request('${2:serviceUrl}', {",
+    "    method: '${3|POST,GET|}',",
+    "    body: utils.jsonToQueryString({ ...param }),",
+    "  });",
+    "}"
+		],
+		"description": "create a dva service.js frame(hizpay)"
+	}
+}
