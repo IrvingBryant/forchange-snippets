@@ -6,4 +6,8 @@
 3. 当需要新建vuets版本文件时新建vue结尾文件输入**forts或FORTS**命令回车即可快键生成代码片段
 4. 当需要新建apis.js文件时新建js结尾文件输入**forapis或FORAPIS**命令回车即可快键生成代码片段
 5. 当需要新建routes.js文件时新建js结尾文件输入**forroute或FORROUTE**命令回车即可快键生成代码片段
+# hiz-snippets的使用说明
+1. 当需要新建model.js文件时新建js结尾文件输入**hizm或HIZM**命令回车即可快键生成代码片段
+2. 当需要新建service.js文件时新建js结尾文件输入**hizs或HIZS**命令回车即可快键生成代码片段
+3. 当需要新建component组件时新建js结尾文件输入**hizc或HIZC**命令回车即可快键生成代码片段
 # [github地址](https://github.com/IrvingBryant/forchange-snippets)希望大家一起维护添加好的snippets

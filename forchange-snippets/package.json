@@ -2,11 +2,11 @@
     "name": "forchange-snippets",
     "displayName": "forchange-snippets",
     "description": "Code snippets for internal forchange company",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "icon":"icon/icon.jpg",
     "publisher": "IrvingYang",
     "engines": {
-        "vscode": "^1.29.0"
+        "vscode": "^1.28.0"
     },
     "categories": [
         "Snippets"
