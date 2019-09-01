@@ -2,7 +2,7 @@
     "name": "forchange-snippets",
     "displayName": "forchange-snippets",
     "description": "Code snippets for internal forchange company",
-    "version": "0.1.4",
+    "version": "0.2.0",
     "icon":"icon/icon.jpg",
     "publisher": "IrvingYang",
     "engines": {
@@ -43,10 +43,16 @@
               "path": "./snippets/hiz-service-snippets.json"
             },
             {
-              "language": "jsx",
+              "language": "javascriptreact",
               "aliases":["hizc","HIZC"],
               "path": "./snippets/hiz-component-snippets.json"
-            },{
+            },
+            {
+              "language": "javascript",
+              "aliases":["hizc","HIZC"],
+              "path": "./snippets/hiz-component-snippets.json"
+            },
+            {
               "language": "vue",
               "aliases":["forts","FORTS"],
               "path": "./snippets/vue-ts-snippets.json"
