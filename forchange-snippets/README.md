@@ -1,4 +1,4 @@
-# 适用于forchange公司内部的代码snippets
+# 适用于公司内部的代码snippets
 1. 为了代码开发更加便捷且规范开发了适用于**apis.js vue routes.js ts**的代码片段
 # forchange-snippets的使用说明
 1. 使用方法在vscode扩展中心搜索安装**forchange-snippets**并启用扩展
